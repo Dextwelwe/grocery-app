@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551063875645",
+    "project_id": "listeepicerie-c2a70",
+    "storage_bucket": "listeepicerie-c2a70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551063875645:android:a8e7af29ff72121b5ffa54",
+        "android_client_info": {
+          "package_name": "dextwelwe.epicerie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551063875645-tdgorlu6h4nshci4ps2cscplu3tak31c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTcB5137_EoiP_G7mZ6dSYeYDv4OW7fTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551063875645-tdgorlu6h4nshci4ps2cscplu3tak31c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
